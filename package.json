@@ -1,0 +1,11 @@
+{
+  "name": "jscodewithnode",
+  "version": "1.0.1",
+  "description": "",
+  "scripts": {},
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "yelp-fusion": "^2.2.1"
+  }
+}
