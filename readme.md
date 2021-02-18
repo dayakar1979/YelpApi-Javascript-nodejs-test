@@ -2,7 +2,7 @@
 
 Clone the repo:
 ```
-$ git clone https://github.com/Yelp/YelpApi-Javascript-nodejs-test.git
+$ git clone https://github.com/dayakar1979/YelpApi-Javascript-nodejs-test.git
 ```
 
 Go into the directory:
